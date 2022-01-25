@@ -1,0 +1,41 @@
+.h5 {
+	padding: 20px;
+	font-size: 1.1rem;
+}
+
+.modal__footer {
+	margin-left: 10px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.card__body {
+	border: 0.5px solid grey;
+}
+.card__text {
+	color: rgb(78, 76, 76);
+}
+.product__header {
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+}
+.editIcon {
+	position: absolute;
+	right: 0;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+.card__color {
+	background-color: rgb(218, 218, 218);
+}
+.products__add {
+	display: flex;
+	justify-content: space-between;
+}
+.products__add > p {
+	margin-top: 25px;
+	margin-right: 10px;
+}

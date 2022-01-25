@@ -1,0 +1,25 @@
+.form-control,
+.AddProduct,
+input {
+	margin: 5px;
+	width: 98%;
+	align-items: center;
+}
+.form {
+	margin-left: 15px;
+}
+h4 {
+	text-align: center;
+}
+
+button {
+	align-items: center;
+	text-align: center;
+}
+.rupee {
+	display: flex;
+	align-items: center;
+}
+.rupee > h5 {
+	margin-left: 15px;
+}

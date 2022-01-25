@@ -1,0 +1,12 @@
+.customer__shop {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin: 15px;
+}
+.card__text {
+	color: rgb(75, 74, 74);
+}
+.card-color{
+	background-color: rgb(218, 218, 218);
+}
